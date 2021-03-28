@@ -1,4 +1,9 @@
-### Hi there 👋
+
+![HagaSpa's github stats](https://github-readme-stats.vercel.app/api?username=HagaSpa&show_icons=true&count_private=true&theme=tokyonight)
+
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HagaSpa&count_private=true&theme=tokyonight&layout=compact)
+-->
 
 <!--
 **HagaSpa/HagaSpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
