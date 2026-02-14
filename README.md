@@ -1,5 +1,5 @@
 
-![HagaSpa's github stats](https://github-readme-stats.vercel.app/api?username=HagaSpa&show_icons=true&count_private=true&theme=tokyonight)
+![HagaSpa's github stats](./profile/stats.svg)
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HagaSpa&count_private=true&theme=tokyonight&layout=compact)
