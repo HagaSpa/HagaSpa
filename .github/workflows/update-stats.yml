@@ -19,7 +19,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=HagaSpa&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight
+          options: username=HagaSpa&show_icons=true&count_private=true&theme=tokyonight
           path: profile/stats.svg
           token: ${{ secrets.PAT }}
 
